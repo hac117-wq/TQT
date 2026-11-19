@@ -1,6 +1,6 @@
 # TQT
 
-# Phase 2 & Quality Sleeve Prototype — Macro Regime Detection, EWMA Vol Scaling & Quality Factor
+# Phase 2 — Macro Regime Detection, EWMA Vol Scaling & Quality Factor
 
 Initial out-of-sample research prototypes for the **Triton Quantitative Trading (TQT)** 3-stage equity strategy. This repository covers **Phase 2 (Macro Regime Overlay & Volatility-Scaled Exposure)** and the **Composite Quality Z-Score** screening module prior to full integration in **QuantConnect**.
 
